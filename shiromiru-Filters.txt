@@ -492,3 +492,4 @@
 ||lemino.docomo.ne.jp^$document
 ||docomo.ne.jp/special_contents/$document
 ||biyoukyoushitsu.tokyo^$document
+||hizakosinaoru.store^$document
