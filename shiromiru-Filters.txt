@@ -494,3 +494,5 @@
 ||hizakosinaoru.store^$document
 ||elevenlabs.io^$document
 ||biyoukyoushitsu.tokyo^$document
+||viviviliving.com^$document
+||skin-peel.online^$document
