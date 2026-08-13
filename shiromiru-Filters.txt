@@ -496,3 +496,5 @@
 ||biyoukyoushitsu.tokyo^$document
 ||viviviliving.com^$document
 ||skin-peel.online^$document
+||autoc-one.jp^$document
+||yamatojk.co.jp^$document
