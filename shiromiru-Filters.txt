@@ -498,3 +498,4 @@
 ||skin-peel.online^$document
 ||autoc-one.jp^$document
 ||yamatojk.co.jp^$document
+||lifepalettes.jp^$document
