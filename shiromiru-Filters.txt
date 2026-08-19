@@ -503,3 +503,4 @@
 ||tensi-care.tokyo^$document
 ||即日融資安心カードローン.com^$document
 ||18.skin-fine.online^$document
+/^https?:\/\/sb\.[^\/]+\/ab\//$document
