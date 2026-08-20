@@ -504,3 +504,4 @@
 ||即日融資安心カードローン.com^$document
 ||18.skin-fine.online^$document
 /^https?:\/\/sb\.[^\/]+\/ab\//$document
+||best-anniversary.co.jp^$document
