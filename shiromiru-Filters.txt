@@ -505,3 +505,4 @@
 ||18.skin-fine.online^$document
 /^https?:\/\/sb\.[^\/]+\/ab\//$document
 ||best-anniversary.co.jp^$document
+||skin-fine.online^$document
