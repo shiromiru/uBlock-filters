@@ -506,3 +506,5 @@
 /^https?:\/\/sb\.[^\/]+\/ab\//$document
 ||best-anniversary.co.jp^$document
 ||skin-fine.online^$document
+||kaigo.clickjob.jp^$document
+||webfree-lp.com^$document
