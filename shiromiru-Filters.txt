@@ -509,3 +509,5 @@
 ||kaigo.clickjob.jp^$document
 ||webfree-lp.com^$document
 ||homelife.jp^$document
+||clover-radiant.com^$document
+
