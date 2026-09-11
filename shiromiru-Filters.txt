@@ -510,4 +510,4 @@
 ||webfree-lp.com^$document
 ||homelife.jp^$document
 ||clover-radiant.com^$document
-
+||curves.co.jp^$document
