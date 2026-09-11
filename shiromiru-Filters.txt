@@ -511,3 +511,4 @@
 ||homelife.jp^$document
 ||clover-radiant.com^$document
 ||curves.co.jp^$document
+||l-ad.net^$document
