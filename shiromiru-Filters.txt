@@ -513,3 +513,4 @@
 ||curves.co.jp^$document
 ||l-ad.net^$document
 ||skinelixir.tokyo^$document
+||herosagagfun.site^$document
