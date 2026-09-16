@@ -514,3 +514,4 @@
 ||l-ad.net^$document
 ||skinelixir.tokyo^$document
 ||herosagagfun.site^$document
+||ichijo.co.jp^$document
