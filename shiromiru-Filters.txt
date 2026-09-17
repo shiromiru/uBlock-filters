@@ -517,3 +517,4 @@
 ||ichijo.co.jp^$document
 ||lifemag.jp^$document
 ||skin-herb.site^$document
+||otsuka-plus1.com^$document
