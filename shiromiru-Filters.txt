@@ -520,3 +520,6 @@
 ||otsuka-plus1.com^$document
 ||nagomivex.club^$document
 ||house-navi77.com^$document
+||xiaomi.cn^$document
+||xiaomiui.net^$document
+||mi.jd.com^$document
