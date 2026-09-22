@@ -523,3 +523,11 @@
 ||xiaomi.cn^$document
 ||xiaomiui.net^$document
 ||mi.jd.com^$document
+||vmall.com^$document
+||huaweicloud.com^$document
+||linglu.pro^$document
+||shein.tw^$document
+||shein.co.uk^$document
+||shein-usa.com^$document
+||sheingroup.com^$document
+||app-shein.com.cn^$document
