@@ -531,3 +531,4 @@
 ||shein-usa.com^$document
 ||sheingroup.com^$document
 ||app-shein.com.cn^$document
+||skybluepotato.site^$document
