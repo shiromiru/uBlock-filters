@@ -532,3 +532,4 @@
 ||sheingroup.com^$document
 ||app-shein.com.cn^$document
 ||skybluepotato.site^$document
+||aw.dw.impact-ad.jp^$document
