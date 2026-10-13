@@ -533,3 +533,6 @@
 ||app-shein.com.cn^$document
 ||skybluepotato.site^$document
 ||aw.dw.impact-ad.jp^$document
+||viviviliving.com^$document
+||ai-skill.jp^$document
+/[?&][^#]*tiktok[^#]*/$document
