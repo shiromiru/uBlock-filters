@@ -536,3 +536,4 @@
 ||viviviliving.com^$document
 ||ai-skill.jp^$document
 /[?&][^#]*tiktok[^#]*/$document
+||comcom-mirai.tokyo^$document
