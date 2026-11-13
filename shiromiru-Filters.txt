@@ -541,3 +541,4 @@
 ||tsuku2.jp^$document
 ||tsuku2.co.jp^$document
 ||quiz.theliven.com^$document
+||sumai.kintetsu-re.co.jp^$document
