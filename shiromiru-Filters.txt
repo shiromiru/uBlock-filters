@@ -542,3 +542,5 @@
 ||tsuku2.co.jp^$document
 ||quiz.theliven.com^$document
 ||sumai.kintetsu-re.co.jp^$document
+||lets-boatrace.jp^$document
+||pcolle.com^$removeparam=af_id
