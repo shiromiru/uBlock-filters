@@ -254,7 +254,7 @@
 ||lomore.net^$document
 ||macromill.lognos.com^$document
 ||sb-upme.myown-page.com^$document
-||pcolle.com^*af_id=*$document
+
 
 ||myown-page.com^$document
 ||upme.jp^$document
@@ -353,6 +353,7 @@
 
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 
+||pcolle.com^$removeparam=af_id
 
 
 ||news.yahoo.co.jp/expert/$document
@@ -543,4 +544,4 @@
 ||quiz.theliven.com^$document
 ||sumai.kintetsu-re.co.jp^$document
 ||lets-boatrace.jp^$document
-||pcolle.com^$removeparam=af_id
+
