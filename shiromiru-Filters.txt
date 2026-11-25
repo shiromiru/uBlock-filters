@@ -544,4 +544,4 @@
 ||quiz.theliven.com^$document
 ||sumai.kintetsu-re.co.jp^$document
 ||lets-boatrace.jp^$document
-
+||lihi.cc^$document
