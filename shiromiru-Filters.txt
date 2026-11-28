@@ -91,15 +91,10 @@
 ||prf.hn^
 
 ! 💄 yフリマ（ヤフオク・PayPayフリマなど）
-||auctions.yahoo.co.jp^$document
-||paypayfleamarket.yahoo.co.jp^$document
-||page.auctions.yahoo.co.jp^$document
 
 ! 💄 メルカリ系
-||mercari.com^$document
-||jp.mercari.com^$document
 ||mercari-shops.com^$document
-||mercari.jp^$document
+
 
 ! 💄 家電量販店（アフィ系を含む）
 
